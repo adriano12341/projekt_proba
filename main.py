@@ -1,2 +1,2 @@
-nazwa_zmiennej = 'Karol'
+nazwa_zmiennej = 'Adrian'
 print(f'Hello {nazwa_zmiennej}')
