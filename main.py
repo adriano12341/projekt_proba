@@ -1,2 +1,2 @@
-nazwa_zmiennej = input('Podaj imię')
+nazwa_zmiennej = input('Podaj imię: ')
 print(f'Hello {nazwa_zmiennej}')
